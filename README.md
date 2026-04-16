@@ -1,5 +1,7 @@
 # Görev Yöneticisi (Task Management System)
 
+**Canlı Yayında İnceleyin:** [Projenin Çalışır Haline Gitmek İçin Tıklayın](https://mehmetgorkemarslan.github.io/TodoAppSP)
+
 Bu proje, görevlerinizi ve notlarınızı klasörler (kategoriler) altında düzenlemenize yardımcı olan, React ve Tailwind CSS ile geliştirilmiş modern bir Görev Yönetim Sistemidir.
 
 ## Projenin Amacı ve Özellikleri
